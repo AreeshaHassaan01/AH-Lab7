@@ -1,0 +1,9 @@
+Console.WriteLine("Chair");
+Console.WriteLine("Table");
+Console.WriteLine("Bed");
+Console.WriteLine("Dining Table");
+Console.WriteLine("Table Lamp");
+Console.WriteLine("Television");
+Console.WriteLine("Air Conditioner");
+Console.WriteLine("Personal Computer");
+Console.WriteLine("Carpet");
