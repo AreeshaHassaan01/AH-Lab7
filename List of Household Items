@@ -7,3 +7,4 @@ Console.WriteLine("Television");
 Console.WriteLine("Air Conditioner");
 Console.WriteLine("Personal Computer");
 Console.WriteLine("Carpet");
+Console.WriteLine("Laptop");
